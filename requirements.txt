@@ -1,31 +1,11 @@
-# Core Streamlit app
 streamlit
-
-# Data processing
 pandas
 sqlalchemy
-
-# Visualization
 plotly
-
-# LangChain ecosystem (for LLM agent)
 langchain
 langchain-community
 langchain-google-genai
 langchain-experimental
-
-# Monitoring
 langsmith
-
-# Google Gemini API (dependency of langchain-google-genai)
-
-# Environment variable management
 python-dotenv
-
-# Optional: For PostgreSQL support
-psycopg2
-
-# Optional: For file/folder path handling
-pathlib
-
-time
+psycopg2-binary
