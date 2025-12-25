@@ -6,6 +6,8 @@ A natural language interface to interact with your databases using AI. Ask quest
 [![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)](https://langchain.com)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 
+Live Demo: [ai-data-assistant-damelia.streamlit.app](https://ai-data-assistant-damelia.streamlit.app/)
+
 ---
 
 ## 🚀 Features
@@ -249,3 +251,4 @@ For questions, issues, or collaboration:
 ---
 
 **Built with ❤️ using AI and Python**
+
