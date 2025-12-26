@@ -170,8 +170,8 @@ def show():
                     # Setup agent
                     db = SQLDatabase.from_uri(db_url)
                     llm = ChatGoogleGenerativeAI(
-                        model="gemini-3-flash-preview",
-                        # model="gemini-2.5-flash",
+                        # model="gemini-3-flash-preview",
+                        model="gemini-2.5-flash",
                         google_api_key=os.getenv("GOOGLE_API_KEY"),
                         temperature=0,
                         convert_system_message_to_human=True
